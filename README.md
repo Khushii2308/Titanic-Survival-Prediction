@@ -25,7 +25,7 @@ To get started with the Titanic Survival Prediction project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/Titanic-Survival-Prediction.git
+git clone https://github.com/Khushii2308/Titanic-Survival-Prediction.git
 
 2. Navigate into the project directory:
 
